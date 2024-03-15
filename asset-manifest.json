@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/demoResume/static/css/main.e1efa1c1.css",
-    "main.js": "/demoResume/static/js/main.e939db9a.js",
-    "index.html": "/demoResume/index.html",
-    "main.e1efa1c1.css.map": "/demoResume/static/css/main.e1efa1c1.css.map",
-    "main.e939db9a.js.map": "/demoResume/static/js/main.e939db9a.js.map"
+    "main.css": "/fc24web/static/css/main.03443a96.css",
+    "main.js": "/fc24web/static/js/main.ba49d864.js",
+    "static/media/i2.jpg": "/fc24web/static/media/i2.df4605986caf7d9264f1.jpg",
+    "static/media/Header-image.jpg": "/fc24web/static/media/Header-image.0e4fd107b04c1ead61c8.jpg",
+    "static/media/i1.jpg": "/fc24web/static/media/i1.b441ad2367a814358416.jpg",
+    "static/media/i4.jpg": "/fc24web/static/media/i4.3f5e140bf6a27f43c424.jpg",
+    "static/media/i5.jpg": "/fc24web/static/media/i5.40a935d5b552c46934d4.jpg",
+    "static/media/i3.jpg": "/fc24web/static/media/i3.7e1fae9edecd658f0fa5.jpg",
+    "index.html": "/fc24web/index.html",
+    "main.03443a96.css.map": "/fc24web/static/css/main.03443a96.css.map",
+    "main.ba49d864.js.map": "/fc24web/static/js/main.ba49d864.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1efa1c1.css",
-    "static/js/main.e939db9a.js"
+    "static/css/main.03443a96.css",
+    "static/js/main.ba49d864.js"
   ]
 }
